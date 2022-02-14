@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jkaczmarek/OneDrive%20-%20Apollogic%20sp.%20z%20o.o/Pulpit/TEST/JUPYTER/ML_Training/mlruns/1/e846035517a74286b546d8dd0121001e/artifacts
+end_time: 1644594778781
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e846035517a74286b546d8dd0121001e
+run_uuid: e846035517a74286b546d8dd0121001e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644594778614
+status: 3
+tags: []
+user_id: jkaczmarek
